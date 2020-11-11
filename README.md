@@ -14,3 +14,5 @@ Servidor simples para realizar consulta de players em servidores da valve utliza
   2. Instale as dependecias | *pip3 install -r requeriments.txt*
   3. Execute | *python3.7 server.py*
   
+### Uso
+  0.0.0.0:8000/IP:PORTA
