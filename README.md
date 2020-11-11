@@ -1,5 +1,5 @@
 ## Sobre
-Servidor simples para realizar consulta de players em servidores da valve utlizando a2s
+Servidor http simples para realizar consulta de players em servidores da valve utlizando a2s
 ### Preparar o ambiente e executar utilizando virtualenv
   1. Instale o python3.7 | *sudo apt install python3.7*
   2. Instale o ambiente virtual para o python3.7 | *sudo apt install python3.7-venv*
